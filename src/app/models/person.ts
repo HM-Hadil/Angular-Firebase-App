@@ -1,5 +1,5 @@
 export interface Person {
-  id?: string,//optionnelle
+  id?: string,//optionel
   name: string,
   salaire : number
   specialiste: string
